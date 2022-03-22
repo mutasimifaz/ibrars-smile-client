@@ -1,0 +1,17 @@
+.button-orange{
+    border: 1px solid #69f546;
+    color: white;
+    background-color: #69f546;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 500;
+}
+.button-orange:hover{
+    background-color:white ;
+    color: #69f546;
+}
+.cstyle{
+    height: 450px;
+    width: 400px;
+}
